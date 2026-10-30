@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bb4092c-9faf-44d6-a418-52beb7201658" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/MenuMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/persistence/TaskFileStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/persistence/TaskFileStorageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/service/TaskServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LayeredTask/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LayeredTask/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LayeredTask/src/main/java/model/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LayeredTask/src/main/java/model/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-minibank-25IT085 - Copy/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-minibank-25IT085 - Copy/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Rinkesh1310&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/25it085-Rinkesh/LabWork_CEUE203_OOP.git&quot;,
+    &quot;accountId&quot;: &quot;a9ae8de9-908a-477d-965b-3d91e5518cfe&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0005930715862057" />
+      <entry key="S2" value="1.2588994963395281" />
+      <entry key="S5" value="2.019604001843879" />
+      <entry key="S10" value="3.2910156654730165" />
+      <entry key="S30" value="8.014043693418136" />
+      <entry key="S60" value="11.843148811659454" />
+      <entry key="M2" value="15.04602935345019" />
+      <entry key="M5" value="19.50106764334728" />
+      <entry key="M10" value="23.832783397993875" />
+      <entry key="M15" value="26.26521457277879" />
+      <entry key="M30" value="29.539385160664484" />
+      <entry key="H1" value="31.594732603528556" />
+      <entry key="H2" value="32.74975271942102" />
+      <entry key="H4" value="33.36245012587344" />
+      <entry key="D1" value="33.891969518650576" />
+      <entry key="W1" value="33.984523056817665" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9395227492140118" />
+      <entry key="MS500" value="0.9881060929926957" />
+      <entry key="S2" value="1.238682010909126" />
+      <entry key="S5" value="1.992105909546295" />
+      <entry key="S10" value="3.26884368220192" />
+      <entry key="S30" value="7.999890663207902" />
+      <entry key="S60" value="11.83323485367343" />
+      <entry key="M2" value="15.039861256106592" />
+      <entry key="M5" value="19.498084712871268" />
+      <entry key="M10" value="23.831128646905764" />
+      <entry key="M15" value="26.26406064220945" />
+      <entry key="M30" value="29.538777172885275" />
+      <entry key="H1" value="31.594419511879057" />
+      <entry key="H2" value="32.749593700551515" />
+      <entry key="H4" value="33.362369971118625" />
+      <entry key="D1" value="33.89195606748806" />
+      <entry key="W1" value="33.984521132936855" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LPmmbpzFXS8r23xe8YYFgYu1ck" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MenuMain.executor": "Run",
+    "JUnit.TaskServiceTest.executor": "Run",
+    "Maven.LayeredTask [clean].executor": "Run",
+    "Maven.LayeredTask [package].executor": "Run",
+    "Maven.LayeredTask [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Rinkesh/JAVA/LayeredTask - Copy (2)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.27258.48" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.27258.48" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bb4092c-9faf-44d6-a418-52beb7201658" name="Changes" comment="" />
+      <created>1793364241185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793364241185</updated>
+      <workItem from="1793364242308" duration="1605000" />
+      <workItem from="1793366166693" duration="300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
